@@ -7,7 +7,7 @@ Only base triad chords are included in the pool of chords - no 7th, 9th chords.
 
 Currently (as of v1.0) the custom fonts included do not display in the executable JAR file release.
 
-Also in the repository is 'computer song', a short snippet of the output produced when the chords / notes given are arranged in a Digital Audio Workstation.
+Also in the repository is 'computer song' - a short snippet of the output produced when the chords / notes given by the randomizer are arranged in a Digital Audio Workstation.
     
 Below is a screenshot demonstrating the running GUI with custom fonts :
     
