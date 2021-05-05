@@ -11,4 +11,4 @@ Also in the repository is 'computer song' - a short snippet of the output produc
     
 Below is a screenshot demonstrating the running GUI with custom fonts :
     
-    https://user-images.githubusercontent.com/78338972/117085041-bd322d00-ad16-11eb-9a94-b25358e77c49.PNG
+   https://user-images.githubusercontent.com/78338972/117085041-bd322d00-ad16-11eb-9a94-b25358e77c49.PNG 
